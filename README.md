@@ -1,2 +1,2 @@
 # Calculator
-https://arthurhenrique22.github.io/calculator/
+Link para acessar a calculadora: https://arthurhenrique22.github.io/calculator/
